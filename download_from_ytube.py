@@ -1,4 +1,4 @@
-// From https://python.plainenglish.io/youtube-video-downloader-using-python-and-tkinter-b97462542300
+# From https://python.plainenglish.io/youtube-video-downloader-using-python-and-tkinter-b97462542300
 import tkinter
 from pytube import YouTube
 
